@@ -1,5 +1,5 @@
 /** Problem 04 - (Delete / Store) */
-var fileName= "#sk.pdf";
+var fileName= "pdfData.jpg";
 //write your code here
 var tempString = fileName.split('.');
 
